@@ -1,16 +1,215 @@
-## Hi there 👋
+# Yug Nanda 👋
 
-<!--
-**YugNanda/YugNanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer · Independent Algorithmic Trader · Fintech Builder 🚀
 
-Here are some ideas to get you started:
+🎓 B.Tech Information Technology @ SKIT Rajasthan (2024–2028)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+---
+
+<br>
+
+## 👨‍💻 About Me
+
+I build fintech-focused software and trade live financial markets independently on MT5.
+
+My work sits at the intersection of **software engineering** and **financial markets** — I don't just build apps, I build tools I actually use as a trader. That means I understand the domain deeply, not just the code.
+
+Currently building **TradeVault** 📊 — a professional-grade trading journal and market dashboard with real-time data, AI trade analysis, and Bloomberg-inspired UI.
+
+<br>
+
+---
+
+<br>
+
+## 🔨 What I'm Working On
+
+- 📈 **TradeVault** — Full-stack trading journal with Socket.io live prices, OpenAI GPT-4o-mini streaming analysis, JWT auth, and MT5 broker integration
+- 🧠 **DSA** — Progressing through structured roadmap targeting placement readiness by March 2027
+- 🏗️ **System Design** — Fundamentals with Pratik Garg
+- 🤖 **ML** — Sem 5 supervised learning + independent study
+
+<br>
+
+---
+
+<br>
+
+## 🛠️ Tech Stack
+
+<br>
+
+**💻 Languages**
+```
+C++  ·  Python  ·  JavaScript (ES6+)  ·  SQL  ·  Java  ·  HTML/CSS
+```
+
+<br>
+
+**🎨 Frontend**
+```
+React.js  ·  TypeScript  ·  Vite  ·  Tailwind CSS  ·  Recharts  ·  lightweight-charts
+```
+
+<br>
+
+**⚙️ Backend & APIs**
+```
+Node.js  ·  Express.js  ·  REST API  ·  Socket.io  ·  JWT Auth  ·  WebSockets
+```
+
+<br>
+
+**🗄️ Database**
+```
+MongoDB  ·  Mongoose  ·  MySQL  ·  MongoDB Atlas
+```
+
+<br>
+
+**🔧 Tools & DevOps**
+```
+Git  ·  GitHub  ·  Docker  ·  Postman  ·  Netlify  ·  Vercel  ·  AWS EC2
+```
+
+<br>
+
+**🤖 AI & Integrations**
+```
+OpenAI API (GPT-4o-mini)  ·  Gemini API  ·  Alpha Vantage  ·  NewsData.io
+```
+
+<br>
+
+**📉 Trading & Finance**
+```
+MetaTrader 5  ·  ICT Methodology  ·  ORB Strategy  ·  Python Backtesting  ·  R-Multiples
+```
+
+<br>
+
+---
+
+<br>
+
+## 🚀 Featured Projects
+
+<br>
+
+### 📊 TradeVault
+> Professional trading journal + live market dashboard
+
+Full-stack fintech app built for serious retail traders. Features JWT auth with refresh token rotation, trade CRUD with auto-calculated P&L and R-multiples, OpenAI GPT-4o-mini streaming for AI trade analysis, and Socket.io live price broadcasting across 6 asset categories.
+
+Bloomberg terminal-inspired dark UI with ICT-domain features — BOS/CHoCH tagging, session timing overlays, emotion and strategy tracking per trade.
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `Socket.io` `JWT` `OpenAI API`
+
+<br>
+
+---
+
+### 📉 TradeFx
+> Real-time stock and forex market dashboard
+
+Full-stack trading platform with live stock prices, financial news, portfolio analytics, and alert systems. Integrated 10+ REST APIs for auth, watchlists, portfolio management, and market data. Caching and background jobs reduced API consumption by 60%.
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Alpha Vantage` `NewsData API` `JWT`
+
+<br>
+
+---
+
+### 📄 Rizzume
+> AI-powered ATS resume analyser
+
+Resume analysis platform using NLP-based keyword extraction and semantic matching to evaluate resumes against ATS criteria. Processed 100+ resumes during beta. Integrated OpenAI API for real-time, role-specific improvement suggestions.
+
+`React.js` `Node.js` `MongoDB` `OpenAI API` `NLP`
+
+<br>
+
+---
+
+### 📝 Readme.AI
+> Automated GitHub README generator
+
+MERN app that analyses uploaded project structures and code snippets to auto-generate professional GitHub READMEs. Live Markdown previewer for real-time editing before export.
+
+`MongoDB` `Express.js` `React` `Node.js` `OpenAI API`
+
+<br>
+
+---
+
+<br>
+
+## 📈 Trading Background
+
+I've traded XAU/USD, Forex majors, and indices live on MT5 since September 2024 using systematic strategies built on ICT methodology and Opening Range Breakout models.
+
+<br>
+
+- 📊 5+ strategies designed and backtested on 12+ months of tick data using Python
+- 🔍 200+ live trade setups analysed with session-based performance tracking
+- 🛡️ Strict risk management — 1% per trade, 2% daily drawdown maximum
+- 📓 Maintained trading journal with win rate, profit factor, and expectancy metrics
+
+<br>
+
+> This background directly shapes how I build software — I understand the domain, the data, and the user problem from the inside.
+
+<br>
+
+---
+
+<br>
+
+## 📚 Currently Learning
+
+<br>
+
+- 🧩 **Advanced DSA** — Hashing, Linked Lists, Trees, Graphs, DP (targeting March 2027)
+- 🤖 **Machine Learning** — Supervised learning, regularization, model evaluation
+- 🏗️ **System Design** — Fundamentals and patterns
+- ✨ **Generative AI** — RAG pipelines, prompt engineering, Gemini API
+
+<br>
+
+---
+
+<br>
+
+## 🏆 Certifications
+
+<br>
+
+- 🏦 JP Morgan Chase — Software Engineering Virtual Internship (Forage)
+- ✅ Scrum Master Certificate
+
+<br>
+
+---
+
+<br>
+
+## 🤝 Connect With Me
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yugnanda-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yugnanda)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-yugnanda.tech%40gmail.com-red?style=flat&logo=gmail)](mailto:yugnanda.tech@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-yugnanda.netlify.app-green?style=flat&logo=netlify)](https://yugnanda.netlify.app)
+
+<br>
+
+---
+
+<br>
+
+*🌟 Building at the intersection of financial markets and software engineering.*
+
