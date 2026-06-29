@@ -2,7 +2,7 @@
 
 ### Full Stack Developer · Independent Algorithmic Trader · Fintech Builder 🚀
 
-🎓 B.Tech Information Technology @ SKIT Rajasthan (2024–2028)
+🎓 B.Tech Information Technology ,SKIT 
 
 <br>
 
@@ -26,10 +26,9 @@ Currently building **TradeVault** 📊 — a professional-grade trading journal 
 
 ## 🔨 What I'm Working On
 
-- 📈 **TradeVault** — Full-stack trading journal with Socket.io live prices, OpenAI GPT-4o-mini streaming analysis, JWT auth, and MT5 broker integration
-- 🧠 **DSA** — Progressing through structured roadmap targeting placement readiness by March 2027
-- 🏗️ **System Design** — Fundamentals with Pratik Garg
-- 🤖 **ML** — Sem 5 supervised learning + independent study
+- 🧠 **DSA** 
+- 🏗️ **System Design** 
+- 🤖 **ML** 
 
 <br>
 
@@ -98,18 +97,6 @@ MetaTrader 5  ·  ICT Methodology  ·  ORB Strategy  ·  Python Backtesting  · 
 
 <br>
 
-### 📊 TradeVault
-> Professional trading journal + live market dashboard
-
-Full-stack fintech app built for serious retail traders. Features JWT auth with refresh token rotation, trade CRUD with auto-calculated P&L and R-multiples, OpenAI GPT-4o-mini streaming for AI trade analysis, and Socket.io live price broadcasting across 6 asset categories.
-
-Bloomberg terminal-inspired dark UI with ICT-domain features — BOS/CHoCH tagging, session timing overlays, emotion and strategy tracking per trade.
-
-`React` `TypeScript` `Node.js` `Express` `MongoDB` `Socket.io` `JWT` `OpenAI API`
-
-<br>
-
----
 
 ### 📉 TradeFx
 > Real-time stock and forex market dashboard
@@ -171,10 +158,10 @@ I've traded XAU/USD, Forex majors, and indices live on MT5 since September 2024 
 
 <br>
 
-- 🧩 **Advanced DSA** — Hashing, Linked Lists, Trees, Graphs, DP (targeting March 2027)
-- 🤖 **Machine Learning** — Supervised learning, regularization, model evaluation
-- 🏗️ **System Design** — Fundamentals and patterns
-- ✨ **Generative AI** — RAG pipelines, prompt engineering, Gemini API
+- 🧩 **Advanced DSA** 
+- 🤖 **Machine Learning** 
+- 🏗️ **System Design** 
+- ✨ **Generative AI**
 
 <br>
 
