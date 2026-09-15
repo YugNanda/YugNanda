@@ -201,3 +201,4 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
 <div align="center">
   <sub>Engineered by <b>Yug Nanda</b> • Systematic Thinking & Scalable Architecture</sub>
 </div>
+<!-- verified-architecture-sync -->
