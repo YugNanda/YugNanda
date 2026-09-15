@@ -192,10 +192,14 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
 
 <div align="center">
   <a href="https://www.hackerrank.com/profile/yugnanda_tech" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-3%20Star%20Silver%20Badge%20%7C%20Problem%20Solving%20(C%2B%2B%20%2F%20DSA)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Silver Badge" />
+    <img src="https://raw.githubusercontent.com/YugNanda/YugNanda/main/assets/hackerrank-silver-badge.png" width="95" height="95" alt="HackerRank 3-Star Silver Problem Solving Badge" />
   </a>
   <br>
-  <sub>Verified 3-Star Silver Badge in <b>Problem Solving (Data Structures, Algorithms & C++)</b> on <a href="https://www.hackerrank.com/profile/yugnanda_tech">HackerRank (@yugnanda_tech)</a></sub>
+  <a href="https://www.hackerrank.com/profile/yugnanda_tech" target="_blank">
+    <b>HackerRank 3-Star Silver Badge • Problem Solving</b>
+  </a>
+  <br>
+  <sub>Core Data Structures, Algorithms & C++ • Verified on <a href="https://www.hackerrank.com/profile/yugnanda_tech">HackerRank (@yugnanda_tech)</a></sub>
 </div>
 
 ---
