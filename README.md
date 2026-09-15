@@ -198,16 +198,6 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
 
 ---
 
-### 🎖️ Verifiable Credentials & Badges
-
-<div align="center">
-  <a href="https://holopin.io/@yugnanda">
-    <img src="https://holopin.me/yugnanda" alt="@YugNanda's Holopin Board" />
-  </a>
-</div>
-
----
-
 <div align="center">
   <sub>Engineered by <b>Yug Nanda</b> • Systematic Thinking & Scalable Architecture</sub>
 </div>
