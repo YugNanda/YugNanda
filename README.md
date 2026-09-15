@@ -49,39 +49,61 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">📈 TradeVault</h3>
-      <p><b>AI-Powered MetaTrader 5 (MT5) Trading Journal</b></p>
-      <p>An institutional-grade trading journal designed to eliminate emotional bias and provide deep analytical performance insights for active traders.</p>
+      <h3 align="left">📈 <a href="https://github.com/YugNanda/Tradefx">TradeX</a></h3>
+      <p><b>Institutional Trading & Financial Analytics Platform (Enterprise Edition)</b></p>
+      <p>A production-ready virtual paper trading and quantitative analytics terminal supporting global asset classes (NSE, BSE, NYSE, Crypto, Forex).</p>
       <ul>
-        <li><b>Real-Time Feed:</b> Live price streaming and position updates powered by <code>Socket.io</code>.</li>
-        <li><b>AI Analysis Engine:</b> Automated trade review and strategy critiques driven by <code>OpenAI GPT-4o-mini</code>.</li>
-        <li><b>Security:</b> Robust JWT-based authentication and end-to-end encrypted session telemetry.</li>
+        <li><b>Live Market Streaming:</b> Real-time price feeds via Alpha Vantage with zero-downtime synthetic simulation fallback.</li>
+        <li><b>Quantitative Signal Engine:</b> Real-time RSI (14), MACD, SMA 20/50 crossovers, and ATR dynamic risk targets.</li>
+        <li><b>Execution & Telemetry:</b> Atomic balance locking, multi-currency (USD/INR) FX valuation, Sharpe ratio, Max Drawdown %, and CSV ledger export.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/YugNanda/Tradefx">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="TradeX Repo" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🗺️ RepoMap</h3>
-      <p><b>AI-Driven Repository Architecture Mapper & Health Auditor</b></p>
-      <p>Developer tooling engine that parses complex codebases, builds interactive dependency graphs, and generates automated architectural health audits.</p>
+      <h3 align="left">🧠 <a href="https://github.com/YugNanda/Arohan">Arohan</a></h3>
+      <p><b>AI-Assisted Student Wellbeing Assessment Platform</b></p>
+      <p>An applied machine learning system evaluating 6 lifestyle and academic dimensions to produce transparent, actionable wellbeing signals.</p>
       <ul>
-        <li><b>Architecture Graphing:</b> Automatically maps module dependencies and cyclomatic complexity.</li>
-        <li><b>Codebase Health Scoring:</b> LLM-assisted linting, dead code identification, and security audit scoring.</li>
-        <li><b>Actionable Telemetry:</b> Generates visual blueprints for rapid onboarding and refactoring.</li>
+        <li><b>Preserved ML Foundation:</b> Production <code>RandomForestRegressor</code> + <code>ColumnTransformer</code> pipeline for continuous wellbeing scoring.</li>
+        <li><b>High-Throughput Microservice:</b> Asynchronous FastAPI backend delivering sub-50ms inference with Pydantic v2 validation.</li>
+        <li><b>Privacy & Polish:</b> In-memory predictions with zero DB tracking, adaptive multi-theming, and printable PDF reflection slips.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://arohan-swart.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Arohan Live Demo" />
+        </a>
+        <a href="https://github.com/YugNanda/Arohan">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Arohan Repo" />
+        </a>
       </p>
     </td>
   </tr>
 </table>
+
+<details>
+<summary><b>🔍 Other Standout Production Systems</b></summary>
+<br>
+
+- **🚀 [Rize — Campus Placement & Internship Management Ecosystem](https://github.com/YugNanda/Rize)**: Enterprise full-stack placement portal with zero-cost in-browser ATS resume auditing, multi-role access control (Student, Recruiter, T&P Admin), verifiable university NOC certificates, and automated corporate offer letters in PDF. Built with React 19, Tailwind CSS, Node.js, Express, and MongoDB.
+- **⚡ [CodeStruct — Interactive Algorithm Visualizer](https://github.com/YugNanda/CodeStruct)**: Real-time DSA animation and learning suite with playback state controls, speed customization, and dual-pane C++ implementations.
+</details>
 
 ---
 
