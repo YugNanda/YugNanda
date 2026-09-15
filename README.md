@@ -192,7 +192,7 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
 
 <div align="center">
   <a href="https://www.hackerrank.com/profile/yugnanda_tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/YugNanda/YugNanda/main/assets/hackerrank-silver-badge.png" width="95" height="95" alt="HackerRank 3-Star Silver Problem Solving Badge" />
+    <img src="./assets/hackerrank-silver-badge.png" width="95" height="95" alt="HackerRank 3-Star Silver Problem Solving Badge" />
   </a>
   <br>
   <a href="https://www.hackerrank.com/profile/yugnanda_tech" target="_blank">
