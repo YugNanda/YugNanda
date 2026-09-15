@@ -52,7 +52,7 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">📈 <a href="https://github.com/YugNanda/Tradefx">Tradefx</a></h3>
+      <h3 align="left">📈 <b><i>Tradefx</i></b></h3>
       <p><b>Institutional Trading & Financial Analytics Platform (Enterprise Edition)</b></p>
       <p>A production-ready virtual paper trading and quantitative analytics terminal supporting global asset classes (NSE, BSE, NYSE, Crypto, Forex).</p>
       <ul>
@@ -74,7 +74,7 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🧠 <a href="https://github.com/YugNanda/Arohan">Arohan</a></h3>
+      <h3 align="left">🧠 <b><i>Arohan</i></b></h3>
       <p><b>AI-Assisted Student Wellbeing Assessment Platform</b></p>
       <p>An applied machine learning system evaluating 6 lifestyle and academic dimensions to produce transparent, actionable wellbeing signals.</p>
       <ul>
@@ -104,11 +104,11 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
 <summary><b>🔍 Other Standout Production Systems</b></summary>
 <br>
 
-- **🚀 [Rize — Campus Placement & Internship Management Ecosystem](https://github.com/YugNanda/Rize)**: Enterprise full-stack placement portal with zero-cost in-browser ATS resume auditing, multi-role access control (Student, Recruiter, T&P Admin), verifiable university NOC certificates, and automated corporate offer letters in PDF. Built with React 19, Tailwind CSS, Node.js, Express, and MongoDB.
-- **🛡️ [AegisPay — Payment Fraud Detection Engine](https://github.com/YugNanda/AegisPay)**: Tri-layer ML transaction classification and anomaly detection pipeline with ISO/IEC 7812 cryptographic validation, sliding-window velocity heuristics, and sub-30ms decisioning. Built with FastAPI, scikit-learn, and Python.
-- **📄 [SynapseCV — AI Resume Intelligence Platform](https://github.com/YugNanda/SynapseCV)**: AI-powered resume intelligence platform leveraging NLP semantic matching and LLM prompt pipelines to evaluate candidate profiles against ATS screening models. Built with React, TypeScript, and OpenAI.
-- **⚡ [AlgoHub — High-Performance DSA Animation Studio](https://github.com/YugNanda/AlgoHub)**: Real-time algorithm animation and learning suite with state playback controls, speed customization, and dual-pane C++ implementations. Built with React 19 and Framer Motion.
-- **💼 [CapitalLens — Personal Finance & Transaction Analytics](https://github.com/YugNanda/CapitalLens)**: Automated cashflow telemetry, expenditure classification, and financial ledger reporting engine.
+- 🚀 **_Rize — Campus Placement & Internship Management Ecosystem_** ([Repository ↗](https://github.com/YugNanda/Rize)): Enterprise full-stack placement portal with zero-cost in-browser ATS resume auditing, multi-role access control (Student, Recruiter, T&P Admin), verifiable university NOC certificates, and automated corporate offer letters in PDF. Built with React 19, Tailwind CSS, Node.js, Express, and MongoDB.
+- 🛡️ **_AegisPay — Payment Fraud Detection Engine_** ([Repository ↗](https://github.com/YugNanda/AegisPay)): Tri-layer ML transaction classification and anomaly detection pipeline with ISO/IEC 7812 cryptographic validation, sliding-window velocity heuristics, and sub-30ms decisioning. Built with FastAPI, scikit-learn, and Python.
+- 📄 **_SynapseCV — AI Resume Intelligence Platform_** ([Repository ↗](https://github.com/YugNanda/SynapseCV)): AI-powered resume intelligence platform leveraging NLP semantic matching and LLM prompt pipelines to evaluate candidate profiles against ATS screening models. Built with React, TypeScript, and OpenAI.
+- ⚡ **_AlgoHub — High-Performance DSA Animation Studio_** ([Repository ↗](https://github.com/YugNanda/AlgoHub)): Real-time algorithm animation and learning suite with state playback controls, speed customization, and dual-pane C++ implementations. Built with React 19 and Framer Motion.
+- 💼 **_CapitalLens — Personal Finance & Transaction Analytics_** ([Repository ↗](https://github.com/YugNanda/CapitalLens)): Automated cashflow telemetry, expenditure classification, and financial ledger reporting engine.
 </details>
 
 ---
@@ -195,11 +195,10 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
     <img src="./assets/hackerrank-silver-badge.png" width="95" height="95" alt="HackerRank 3-Star Silver Problem Solving Badge" />
   </a>
   <br>
-  <a href="https://www.hackerrank.com/profile/yugnanda_tech" target="_blank">
-    <b>HackerRank 3-Star Silver Badge • Problem Solving</b>
-  </a>
-  <br>
-  <sub>Core Data Structures, Algorithms & C++ • Verified on <a href="https://www.hackerrank.com/profile/yugnanda_tech">HackerRank (@yugnanda_tech)</a></sub>
+  <p>
+    <b><i>HackerRank 3-Star Silver Badge • Problem Solving</i></b><br>
+    <sub>Core Data Structures, Algorithms & C++ • Verified on <a href="https://www.hackerrank.com/profile/yugnanda_tech">HackerRank (@yugnanda_tech)</a></sub>
+  </p>
 </div>
 
 ---
@@ -207,8 +206,30 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
 ### 📊 Telemetry & Engineering Velocity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YugNanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0d1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugNanda&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" height="165" alt="Top Languages" />
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h4 align="center">📊 <b><i>GitHub Stats & Velocity</i></b></h4>
+        <p>
+          📦 <b>Total Repositories:</b> 10 Public Systems<br>
+          ⭐ <b>Flagships:</b> Tradefx • Arohan • AegisPay<br>
+          ⚡ <b>Engineering Velocity:</b> Real-time APIs, ML Pipelines & SPAs<br>
+          🏆 <b>Achievements:</b> 🚀 YOLO • 🤠 Quickdraw • 🦈 Pull Shark<br>
+          🎯 <b>Commit Focus:</b> Systematic Trading & Production AI
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h4 align="center">💻 <b><i>Languages & Stack Breakdown</i></b></h4>
+        <p>
+          🐍 <b>Python</b> — ML Modeling, FastAPI Microservices<br>
+          ⚡ <b>C++</b> — Competitive Programming & Low-Latency DSA<br>
+          ⚛️ <b>TypeScript / React</b> — Real-Time Streaming Frontend UIs<br>
+          🟢 <b>Node.js / Express</b> — WebSockets & Financial Engines<br>
+          🍃 <b>MongoDB / SQL</b> — Transaction Ledgers & Time-Series Data
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
