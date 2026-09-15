@@ -205,3 +205,4 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
 <!-- audit-pass: 1 -->
 <!-- audit-pass: 1 -->
 <!-- audit-pass: 2 -->
+<!-- co-author-telemetry-sync: 1789446647 -->
