@@ -49,7 +49,7 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">📈 <a href="https://github.com/YugNanda/Tradefx">TradeX</a></h3>
+      <h3 align="left">📈 <a href="https://github.com/YugNanda/Tradefx">Tradefx</a></h3>
       <p><b>Institutional Trading & Financial Analytics Platform (Enterprise Edition)</b></p>
       <p>A production-ready virtual paper trading and quantitative analytics terminal supporting global asset classes (NSE, BSE, NYSE, Crypto, Forex).</p>
       <ul>
@@ -66,7 +66,7 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
       </p>
       <p>
         <a href="https://github.com/YugNanda/Tradefx">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="TradeX Repo" />
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Tradefx Repo" />
         </a>
       </p>
     </td>
