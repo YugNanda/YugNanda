@@ -14,8 +14,11 @@
     <a href="https://linkedin.com/in/yugnanda" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://yugnanda.netlify.app" target="_blank">
+    <a href="https://yugnanda.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefoxbrowser&logoColor=00f2fe" alt="Portfolio" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/yugnanda_tech" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-3⭐%20Problem%20Solving-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
     </a>
     <a href="mailto:yugnanda.tech@gmail.com">
       <img src="https://img.shields.io/badge/Email-yugnanda.tech%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -182,6 +185,18 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 </details>
+
+---
+
+### 🏆 Problem Solving & Competitive Programming
+
+<div align="center">
+  <a href="https://www.hackerrank.com/profile/yugnanda_tech" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-3%20Star%20Silver%20Badge%20%7C%20Problem%20Solving%20(C%2B%2B%20%2F%20DSA)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Silver Badge" />
+  </a>
+  <br>
+  <sub>Verified 3-Star Silver Badge in <b>Problem Solving (Data Structures, Algorithms & C++)</b> on <a href="https://www.hackerrank.com/profile/yugnanda_tech">HackerRank (@yugnanda_tech)</a></sub>
+</div>
 
 ---
 
