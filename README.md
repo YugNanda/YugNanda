@@ -102,7 +102,10 @@ rules_based_edge: "Actively trades financial markets with systematic models — 
 <br>
 
 - **🚀 [Rize — Campus Placement & Internship Management Ecosystem](https://github.com/YugNanda/Rize)**: Enterprise full-stack placement portal with zero-cost in-browser ATS resume auditing, multi-role access control (Student, Recruiter, T&P Admin), verifiable university NOC certificates, and automated corporate offer letters in PDF. Built with React 19, Tailwind CSS, Node.js, Express, and MongoDB.
-- **⚡ [CodeStruct — Interactive Algorithm Visualizer](https://github.com/YugNanda/CodeStruct)**: Real-time DSA animation and learning suite with playback state controls, speed customization, and dual-pane C++ implementations.
+- **🛡️ [AegisPay — Payment Fraud Detection Engine](https://github.com/YugNanda/AegisPay)**: Tri-layer ML transaction classification and anomaly detection pipeline with ISO/IEC 7812 cryptographic validation, sliding-window velocity heuristics, and sub-30ms decisioning. Built with FastAPI, scikit-learn, and Python.
+- **📄 [SynapseCV — AI Resume Intelligence Platform](https://github.com/YugNanda/SynapseCV)**: AI-powered resume intelligence platform leveraging NLP semantic matching and LLM prompt pipelines to evaluate candidate profiles against ATS screening models. Built with React, TypeScript, and OpenAI.
+- **⚡ [StructureLab — High-Performance DSA Animation Studio](https://github.com/YugNanda/StructureLab)**: Real-time algorithm animation and learning suite with state playback controls, speed customization, and dual-pane C++ implementations. Built with React 19 and Framer Motion.
+- **💼 [CapitalLens — Personal Finance & Transaction Analytics](https://github.com/YugNanda/CapitalLens)**: Automated cashflow telemetry, expenditure classification, and financial ledger reporting engine.
 </details>
 
 ---
